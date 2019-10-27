@@ -1,0 +1,2 @@
+pacman -S <software>:	install package with network
+pacman -U <software>:	install package with file
