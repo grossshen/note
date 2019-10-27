@@ -1,0 +1,2 @@
+## start with proxy
+sudo google-chrome --proxy-server="http://127.0.0.1:1081" --sand-box
