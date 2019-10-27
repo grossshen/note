@@ -1,0 +1,10 @@
+## set proxy for chromium
+chromium is a opensource version of chrome
+1. run `chromium --proxy-server="http://127.0.0.1:1081"` 
+2. download `SwitchyOmega` in plugin google store
+3. set proxy with `SwitchyOmega`
+4. then you can log in chromium with proxy convinetly
+
+## A javascript error occurred in the main processd
+uncaught exception: error: read econnreset at tcp.onstreamread
+google-chrome doesn't have this problem
