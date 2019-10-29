@@ -1,0 +1,2 @@
+# pip speed up
+`sudo pip instal xxx --trusted-host  pypi.douban.com -i http://pypi.douban.com/simple `
